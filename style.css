@@ -23,7 +23,7 @@ body{
     flex-direction: column;
     align-items: center;
     max-width: 550px;
-    padding: 45px 45px 80px 45px;
+    padding: 45px 45px 70px 45px;
     background-color: hsl(217, 19%, 24%);
     border-radius: 15px;
     text-align: center;
@@ -52,7 +52,7 @@ body{
     transition: all .3s ease-in-out;
 }
 .get_advice:hover{
-    box-shadow: 0 0 50px hsl(150, 100%, 66%);
+    box-shadow: 0 0 40px hsl(150, 100%, 66%);
 }
 @media (max-width: 600px){
     .box{
